@@ -140,13 +140,3 @@ class User:
     self.login = 0 
     print('Você saiu da sua conta.\n')
     return
-
-khauan=User()
-# khauan.novoCadastro()
-# khauan.logando()
-# khauan.alterarSenha()
-# khauan.excluirCadastro()
-# khauan.visualizarDados()
-# khauan.principaisMoedas()
-# khauan.converterMoedas()
-# khauan.deslogar()

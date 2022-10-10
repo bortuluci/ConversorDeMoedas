@@ -42,3 +42,8 @@ while logado == 0:
     print('Erro! Número não reconhecido.\n')
 else:
   print('\n########## FIM ##########')
+
+#Made by Khauan Bortuluci
+#github.com/bortuluci
+#E-mail: khauanbs@gmail.com
+#SC, Brazil
